@@ -1,0 +1,47 @@
+#navBar {
+    background-color: aqua;
+    padding: 30px;
+    text-align: left;
+    font-size: 10px;
+    color: white;
+
+}
+#video {
+    background-color: black;
+    padding: 30px;
+    width: 60%;
+    text-align: left;
+    font-size: 10px;
+    color: white;
+}
+#section {
+    background-color: rgb(11, 240, 30);
+    padding: 30px;
+    width: 60%;
+    text-align: left;
+    font-size: 10px;
+    color: white;
+}
+#comment {
+    background-color: brown;
+    padding: 30px;
+    width: 60%;
+    text-align: left;
+    font-size: 10px;
+    color: white;
+}
+#side {
+    background-color: blueviolet;
+    padding: 30px;
+    width: 40%;
+    text-align: left;
+    font-size: 10px;
+    color: white;
+}
+section {
+    background-color: rgba(144, 215, 218, 0.637);
+    padding: 30px;
+    text-align: left;
+    font-size: 10px;
+    color: white;
+}
